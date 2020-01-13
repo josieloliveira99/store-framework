@@ -4,7 +4,8 @@
       "flex-layout.col",
       "flex-layout.row",
       "info-card#button-right",
-      "info-card#button-left"
+      "info-card#button-left",
+      "shelf"
     ]
   },
 
