@@ -5,12 +5,13 @@
   "search-result-layout": {
      "blocks": [
         "search-result-layout.desktop"
-     ],
-     "props": {
-      "pagination": "show-more"
-     }
+     ]
   },
   "search-result-layout.desktop":{
+   "props": {
+      "pagination": "show-more",
+      "preventRouteChange": true
+   },
     "children":[
       "breadcrumb.search",
       "search-title.v2",
