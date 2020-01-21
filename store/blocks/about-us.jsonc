@@ -7,8 +7,8 @@
     },
     "tab-layout#home": {
       "children": [
-        "tab-list",
-        "tab-content"
+        "tab-list#home",
+        "tab-content#home"
       ]
     },
     "tab-list#home": {
